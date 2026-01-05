@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Girl Monk Meme</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+            color: #333;
+        }
+        header {
+            background-color: #fff;
+            text-align: center;
+            padding: 50px 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        header h1 {
+            font-size: 48px;
+            color: #333;
+            margin: 0;
+        }
+        .tagline {
+            font-size: 24px;
+            color: #555;
+            margin-top: 10px;
+        }
+        section {
+            padding: 60px 20px;
+            text-align: center;
+        }
+        .meme-image {
+            width: 80%;
+            max-width: 500px;
+            margin: 30px 0;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+        }
+        .call-to-action {
+            background-color: #ff6347;
+            color: white;
+            padding: 15px 30px;
+            border-radius: 30px;
+            text-decoration: none;
+            font-size: 18px;
+            font-weight: bold;
+            margin-top: 30px;
+            display: inline-block;
+            transition: background-color 0.3s ease;
+        }
+        .call-to-action:hover {
+            background-color: #d9534f;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            padding: 20px;
+            text-align: center;
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Girl Monk</h1>
+        <p class="tagline">The Monk who's ready to teach and meme!</p>
+    </header>
+
+    <section>
+        <img src="https://via.placeholder.com/500" alt="Girl Monk Meme" class="meme-image">
+        <p>Join the movement, laugh, and spread the wisdom!</p>
+        <a href="https://t.me/+fYw2xVJfD5kyNWNh" class="call-to-action">Join my Telegram</a>
+    </section>
+
+    <footer>
+        <p>Follow me on my meme journey: <a href="https://t.me/+fYw2xVJfD5kyNWNh" style="color: #ff6347;">Telegram</a></p>
+    </footer>
+
+</body>
+</html>
